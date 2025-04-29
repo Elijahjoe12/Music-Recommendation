@@ -1,0 +1,4 @@
+pip install -r requirements.txt
+cd rec
+python preprocess.py
+streamlit run main.py
